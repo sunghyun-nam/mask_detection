@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>64.jpeg</filename>
+	<path>/home/ubuntu18/ProjectFolder/images/train/64.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>73</ymin>
+			<xmax>209</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

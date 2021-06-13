@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>154.jpeg</filename>
+	<path>/home/ubuntu18/ProjectFolder/images/test/154.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>68</ymin>
+			<xmax>180</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>
